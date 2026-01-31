@@ -3,6 +3,5 @@
 console.log("Nayana G");
 console.log("Sanjay Babu");
 console.log("N Fadeela");
-console.log("Mahir sahal k");
-
+console.log("Mahir Sahal K")
 
